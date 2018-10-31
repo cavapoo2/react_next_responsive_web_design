@@ -15,7 +15,11 @@ const Header = () => (
      <Link href="/responsiveNews">
       <a style={linkStyle}>responsiveNews</a>
     </Link>
+    <Link href="/maxWidthTypography">
+      <a style={linkStyle}>maxWidthTypography</a>
+    </Link>
  
+
     <style jsx> {`
    display: inline-block;
    padding: 0.25em;
