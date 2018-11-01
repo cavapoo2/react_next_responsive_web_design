@@ -5,7 +5,7 @@ import Head from 'next/head'
 export default () => (
     <div>
         <Head>
-            <meta charset="UTF-8" />
+            <meta charSet="UTF-8" />
             <title>Using the max-width media query for small-screen typography</title>
             {/*<!-- Load Open Sans Condensed & Regular from Google Fonts -->*/}
             <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:700|Open+Sans:700,400' rel='stylesheet' type='text/css' />
