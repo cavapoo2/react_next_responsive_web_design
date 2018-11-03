@@ -30,6 +30,10 @@ const Header = () => (
     <Link href="/backgroundImageMediaQuery">
       <a style={linkStyle}>backgroundImageMediaQuery</a>
     </Link>
+    <Link href="/responsiveNewsSrcSet">
+      <a style={linkStyle}>responsiveNewsSrcSet</a>
+    </Link>
+
 
     <style jsx> {`
    display: inline-block;
